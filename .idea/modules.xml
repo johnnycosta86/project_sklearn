@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/agrupamento_dbscan/.idea/agrupamento_dbscan.iml" filepath="$PROJECT_DIR$/agrupamento_dbscan/.idea/agrupamento_dbscan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agrupamento_hierarquico/.idea/agrupamento_hierarquico.iml" filepath="$PROJECT_DIR$/agrupamento_hierarquico/.idea/agrupamento_hierarquico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../apriori/.idea/apriori.iml" filepath="$PROJECT_DIR$/../apriori/.idea/apriori.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regras_associacao_eclat/.idea/eclat.iml" filepath="$PROJECT_DIR$/regras_associacao_eclat/.idea/eclat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/agrupamento_k_means/.idea/k_means.iml" filepath="$PROJECT_DIR$/agrupamento_k_means/.idea/k_means.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/project_sklearn.iml" filepath="$PROJECT_DIR$/.idea/project_sklearn.iml" />
+    </modules>
+  </component>
+</project>

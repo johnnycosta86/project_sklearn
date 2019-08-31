@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cross_validation/.idea/cross_validation.iml" filepath="$PROJECT_DIR$/../cross_validation/.idea/cross_validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../knn/.idea/knn.iml" filepath="$PROJECT_DIR$/../knn/.idea/knn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../naive_bayes/.idea/naive_bayes.iml" filepath="$PROJECT_DIR$/../naive_bayes/.idea/naive_bayes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pre_processamento.iml" filepath="$PROJECT_DIR$/.idea/pre_processamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../redes_neurais/.idea/redes_neurais.iml" filepath="$PROJECT_DIR$/../redes_neurais/.idea/redes_neurais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regressao_linear/.idea/regressao_linear.iml" filepath="$PROJECT_DIR$/../regressao_linear/.idea/regressao_linear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regressao_logisitca/.idea/regressao_logisitca.iml" filepath="$PROJECT_DIR$/../regressao_logisitca/.idea/regressao_logisitca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../rules/.idea/rules.iml" filepath="$PROJECT_DIR$/../rules/.idea/rules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../svm/.idea/svm.iml" filepath="$PROJECT_DIR$/../svm/.idea/svm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../trees/.idea/trees.iml" filepath="$PROJECT_DIR$/../trees/.idea/trees.iml" />
+    </modules>
+  </component>
+</project>

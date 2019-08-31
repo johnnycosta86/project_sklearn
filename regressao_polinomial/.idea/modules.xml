@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/regressao_polinomial.iml" filepath="$PROJECT_DIR$/.idea/regressao_polinomial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regressao_redes_neurais/.idea/regressao_redes_neurais.iml" filepath="$PROJECT_DIR$/../regressao_redes_neurais/.idea/regressao_redes_neurais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regressao_svm/.idea/regressao_svm.iml" filepath="$PROJECT_DIR$/../regressao_svm/.idea/regressao_svm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../regressao_trees/.idea/regressao_trees.iml" filepath="$PROJECT_DIR$/../regressao_trees/.idea/regressao_trees.iml" />
+    </modules>
+  </component>
+</project>
